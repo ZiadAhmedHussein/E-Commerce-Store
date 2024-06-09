@@ -1,11 +1,7 @@
 import React, { useContext, useEffect } from "react";
 // import style from "./App.module.css";
 
-import {
-  RouterProvider,
-  createHashRouter,
-  createHashRouter,
-} from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 
 import Layout from "./Componenets/Layout/Layout";
 
